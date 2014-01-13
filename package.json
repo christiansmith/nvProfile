@@ -1,0 +1,11 @@
+{
+  "name": "nvProfile",
+  "version": "0.0.0",
+  "description": "Profile service for AngularJS",
+  "main": "profile.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Christian Smith",
+  "license": "MIT"
+}

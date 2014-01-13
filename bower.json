@@ -1,0 +1,21 @@
+{
+  "name": "nvProfile",
+  "version": "0.0.0",
+  "authors": [
+    "Christian Smith <smith@anvil.io>"
+  ],
+  "description": "AngularJS profile service",
+  "main": "profile.js",
+  "license": "MIT",
+  "ignore": [
+    ".swp",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "angular": "~1.2.8",
+    "angular-mocks": "~1.2.8",
+    "anvil-sdk-angularjs": "https://github.com/christiansmith/anvil-sdk-angularjs.git"
+  }
+}
